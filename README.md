@@ -1,16 +1,41 @@
-## Hi there 👋
+##
 
-<!--
-**Alejandroski33-bin/Alejandroski33-bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" style="font-size:28px; font-weight:600;">
+  Hello! 👋 I'm Alejandro Castro.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  MERN Junior Stack Developer driven by continuous learning and improvement.
+  I build clean, scalable solutions for real-world problems and constantly sharpen my skills through platforms.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<h3 align="center">🧠 Languages & Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,nodejs,react,tailwind,vite,styledcomponents,redux,blender,express,mongodb,netlify,nextjs,postman,pug" />
+</p>
+
+<h3 align="center">🗄️ Database & Data</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
+</p>
+
+<h3 align="center">🛠️ Tools & Systems</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux" />
+</p>
+
+##
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejandro-castro-f/"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alecafer99@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E1E1E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
