@@ -17,21 +17,17 @@
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,nodejs,react,tailwind,vite,styledcomponents,redux,blender,express,mongodb,netlify,nextjs,postman,pug" />
 </p>
 
-<h3 align="center">🗄️ Database & Data</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
-</p>
-
 <h3 align="center">🛠️ Tools & Systems</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux" />
 </p>
 
-##
+<h3 align="center">🗄️ Database & Data</h3>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
+</p>
 
 <br>
 
