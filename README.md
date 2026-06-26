@@ -14,13 +14,13 @@
 <h3 align="center">🧠 Languages & Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,nodejs,react,tailwind,vite,styledcomponents,redux,blender,express,mongodb,netlify,nextjs,postman,pug" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,nodejs,react,tailwind,vite,styledcomponents,redux,blender,express,mongodb,pug" />
 </p>
 
 <h3 align="center">🛠️ Tools & Systems</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux,netlify,nextjs,postman,jest,vitest" />
 </p>
 
 <h3 align="center">🗄️ Database & Data</h3>
